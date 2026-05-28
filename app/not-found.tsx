@@ -14,7 +14,7 @@ export default function NotFound() {
         href="/"
         className="mt-8 rounded border border-rust px-4 py-2 text-sm text-parchment hover:bg-rust/20"
       >
-        ← Back to Divided Ground
+        ← Back to Divided Grounds
       </Link>
     </main>
   );

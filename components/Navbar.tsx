@@ -15,7 +15,7 @@ export default function Navbar() {
           href="/"
           className="font-serif text-lg text-parchment transition hover:text-rust"
         >
-          Divided Ground
+          Divided Grounds
         </Link>
         <ul className="flex flex-wrap items-center justify-end gap-1 sm:gap-2">
           {links.map((link) => (

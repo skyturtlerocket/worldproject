@@ -3,7 +3,7 @@ import Navbar from "@/components/Navbar";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Divided Ground — A Cold War Virtual Tour",
+  title: "Divided Grounds — A Cold War Virtual Tour",
   description:
     "Explore how the Cold War divided ethnicities and communities, starting in Germany. A virtual, look-around tour of the places where the Iron Curtain cut through everyday life.",
 };

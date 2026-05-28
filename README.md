@@ -1,4 +1,4 @@
-# Divided Ground — A Cold War Virtual Tour
+# Divided Grounds — A Cold War Virtual Tour
 
 A virtual, look-around tour of the places where the Cold War split a country, a city, and a single people. Built for an AP World History project. Version 1 covers **Germany** (Berlin, 1945–1989) and **Korea** (the 38th parallel and DMZ, 1945–present).
 

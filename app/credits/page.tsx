@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Credits — Divided Ground",
-  description: "Project credits and acknowledgments for Divided Ground.",
+  title: "Credits — Divided Grounds",
+  description: "Project credits and acknowledgments for Divided Grounds.",
 };
 
 export default function CreditsPage() {

@@ -20,7 +20,7 @@ export default function TourSidebar({ tour, activeStopId, onSelect }: Props) {
           href="/"
           className="text-xs uppercase tracking-widest text-parchment/60 hover:text-parchment"
         >
-          ← Divided Ground
+          ← Divided Grounds
         </Link>
         <h1 className="mt-2 font-serif text-2xl text-parchment">{tour.title}</h1>
         <p className="text-sm text-parchment/70">{tour.subtitle}</p>
